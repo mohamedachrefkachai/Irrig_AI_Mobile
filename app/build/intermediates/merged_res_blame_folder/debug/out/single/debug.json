@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_robot_detail.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_robot_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_hourly_weather.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_hourly_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_task.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_workers.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_workers.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_status_badge.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_status_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\color_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\color\\bottom_nav_selector.xml"
+    },
+    {
+        "merged": "com.irrigai.mobile.app-merged_res-4:/layout_fragment_worker_tasks.xml.flat",
+        "source": "com.irrigai.mobile.app-main-6:/layout/fragment_worker_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_valve.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_valve.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_dialog_worker_zone_detail.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\dialog_worker_zone_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_farm_card.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_farm_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_status.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_stats.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_toggle_selected.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_toggle_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_bottom_sheet_sensor.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\bottom_sheet_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_robot.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_robot.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_profile.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_toggle_unselected.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_toggle_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_profile.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_viz.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_viz.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_robot.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_robot.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_robots.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_robots.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_owner_main.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_owner_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_home.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_zone.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_zone.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_farm.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_farm.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_join_farm.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_join_farm.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_home.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_stat_card_blue.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_stat_card_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_farm.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_farm.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_farm_selection.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_farm_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_stat_card_green.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_stat_card_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_worker_main.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_worker_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_task_simple.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_task_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_home.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_landing.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_landing.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_robots.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_robots.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_zones.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_zones.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_robot.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_robot.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_control.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_person.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_farm_selection_gradient.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_farm_selection_gradient.xml"
+    },
+    {
+        "merged": "com.irrigai.mobile.app-merged_res-4:/layout_item_worker_task_simple.xml.flat",
+        "source": "com.irrigai.mobile.app-main-6:/layout/item_worker_task_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_chart.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_activity_worker_weather.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\activity_worker_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_worker_tasks.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_worker_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_toggle_container.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_toggle_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\menu_bottom_nav_worker.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\menu\\bottom_nav_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_bg_stat_card_purple.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\bg_stat_card_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\drawable_ic_nav_weather.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\drawable\\ic_nav_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_fragment_owner_weather.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\fragment_owner_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-merged_res-4:\\layout_item_worker_remark.xml.flat",
+        "source": "C:\\Users\\achre\\.gradle\\daemon\\8.6\\com.irrigai.mobile.app-main-6:\\layout\\item_worker_remark.xml"
+    }
+]

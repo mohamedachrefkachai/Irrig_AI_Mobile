@@ -1,0 +1,9 @@
+Placez votre vidéo d'accueil ici.
+
+Nom du fichier requis : farm.mp4
+
+Vous pouvez copier le fichier depuis :
+  android\video\ 
+vers ce dossier (assets/video/).
+
+Ensuite la vidéo s'affichera en arrière-plan sur la page d'accueil.

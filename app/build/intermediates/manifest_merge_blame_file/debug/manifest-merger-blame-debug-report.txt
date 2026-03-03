@@ -1,0 +1,228 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.irrigai.mobile"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:5:1-63
+11-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:5:18-60
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:6:1-75
+12-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:6:18-72
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:7:1-61
+13-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:7:18-58
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.irrigai.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.irrigai.mobile.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:9:5-67:19
+22        android:allowBackup="true"
+22-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:10:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.9.0] C:\Users\achre\.gradle\caches\transforms-4\65ea576162497bd3be696cccc460110a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:hardwareAccelerated="true"
+26-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:17:9-43
+27        android:icon="@drawable/ic_launcher"
+27-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:11:9-45
+28        android:label="@string/app_name"
+28-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:12:9-41
+29        android:roundIcon="@drawable/ic_launcher_round"
+29-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:13:9-56
+30        android:supportsRtl="true"
+30-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:14:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.IrrigAi"
+32-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:15:9-45
+33        android:usesCleartextTraffic="true" >
+33-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:16:9-44
+34        <activity
+34-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:20:9-30:20
+35            android:name="com.irrigai.mobile.ui.auth.LandingActivity"
+35-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:21:13-52
+36            android:configChanges="orientation|screenSize|keyboardHidden"
+36-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:25:13-74
+37            android:exported="true"
+37-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:22:13-36
+38            android:screenOrientation="portrait"
+38-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:23:13-49
+39            android:theme="@style/Theme.IrrigAi.FullScreen" >
+39-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:24:13-60
+40            <intent-filter>
+40-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:26:13-29:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:27:17-69
+41-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:27:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:28:17-77
+43-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:28:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:32:9-36:77
+47            android:name="com.irrigai.mobile.ui.auth.AuthActivity"
+47-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:33:13-49
+48            android:configChanges="orientation|screenSize|keyboardHidden"
+48-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:36:13-74
+49            android:exported="false"
+49-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:34:13-37
+50            android:screenOrientation="portrait" />
+50-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:35:13-49
+51        <activity
+51-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:38:9-42:77
+52            android:name="com.irrigai.mobile.ui.auth.JoinFarmActivity"
+52-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:39:13-53
+53            android:configChanges="orientation|screenSize|keyboardHidden"
+53-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:42:13-74
+54            android:exported="false"
+54-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:40:13-37
+55            android:screenOrientation="portrait" />
+55-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:41:13-49
+56        <activity
+56-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:44:9-48:77
+57            android:name="com.irrigai.mobile.ui.owner.OwnerMainActivity"
+57-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:45:13-55
+58            android:configChanges="orientation|screenSize|keyboardHidden"
+58-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:48:13-74
+59            android:exported="false"
+59-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:46:13-37
+60            android:screenOrientation="portrait" />
+60-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:47:13-49
+61        <activity
+61-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:50:9-54:77
+62            android:name="com.irrigai.mobile.ui.worker.WorkerMainActivity"
+62-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:51:13-57
+63            android:configChanges="orientation|screenSize|keyboardHidden"
+63-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:54:13-74
+64            android:exported="false"
+64-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:52:13-37
+65            android:screenOrientation="portrait" />
+65-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:53:13-49
+66        <activity
+66-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:56:9-60:77
+67            android:name="com.irrigai.mobile.ui.farm.FarmSelectionActivity"
+67-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:57:13-58
+68            android:configChanges="orientation|screenSize|keyboardHidden"
+68-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:60:13-74
+69            android:exported="false"
+69-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:58:13-37
+70            android:screenOrientation="portrait" />
+70-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:59:13-49
+71        <activity
+71-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:62:9-66:77
+72            android:name="com.irrigai.mobile.ui.robot.RobotDetailActivity"
+72-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:63:13-57
+73            android:configChanges="orientation|screenSize|keyboardHidden"
+73-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:66:13-74
+74            android:exported="false"
+74-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:64:13-37
+75            android:screenOrientation="portrait" />
+75-->C:\4eme\Sem2\PI\android\app\src\main\AndroidManifest.xml:65:13-49
+76
+77        <service
+77-->[androidx.room:room-runtime:2.6.1] C:\Users\achre\.gradle\caches\transforms-4\222c863adee6f06245857f1733d8ea7d\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+78            android:name="androidx.room.MultiInstanceInvalidationService"
+78-->[androidx.room:room-runtime:2.6.1] C:\Users\achre\.gradle\caches\transforms-4\222c863adee6f06245857f1733d8ea7d\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+79            android:directBootAware="true"
+79-->[androidx.room:room-runtime:2.6.1] C:\Users\achre\.gradle\caches\transforms-4\222c863adee6f06245857f1733d8ea7d\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+80            android:exported="false" />
+80-->[androidx.room:room-runtime:2.6.1] C:\Users\achre\.gradle\caches\transforms-4\222c863adee6f06245857f1733d8ea7d\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+81
+82        <provider
+82-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+83            android:name="androidx.startup.InitializationProvider"
+83-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+84            android:authorities="com.irrigai.mobile.androidx-startup"
+84-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+85            android:exported="false" >
+85-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+86            <meta-data
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+88                android:value="androidx.startup" />
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\achre\.gradle\caches\transforms-4\157015edda5ac2176d1860385a5cd1ea\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+89            <meta-data
+89-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\achre\.gradle\caches\transforms-4\3761c01dfcb1065a185a78293e6ba37f\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+90-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\achre\.gradle\caches\transforms-4\3761c01dfcb1065a185a78293e6ba37f\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+91                android:value="androidx.startup" />
+91-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\achre\.gradle\caches\transforms-4\3761c01dfcb1065a185a78293e6ba37f\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+94                android:value="androidx.startup" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+95        </provider>
+96
+97        <uses-library
+97-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+98            android:name="androidx.window.extensions"
+98-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+99            android:required="false" />
+99-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+100        <uses-library
+100-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+101            android:name="androidx.window.sidecar"
+101-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+102            android:required="false" />
+102-->[androidx.window:window:1.0.0] C:\Users\achre\.gradle\caches\transforms-4\c5c0c7db081474ac2b466aa615a7a077\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+103
+104        <receiver
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+105            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+106            android:directBootAware="false"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+107            android:enabled="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+108            android:exported="true"
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+109            android:permission="android.permission.DUMP" >
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+111                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+111-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+114                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+114-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+117                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+117-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+118            </intent-filter>
+119            <intent-filter>
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+120                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\achre\.gradle\caches\transforms-4\34f0e6eca83fff1412364437cb194793\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+121            </intent-filter>
+122        </receiver>
+123    </application>
+124
+125</manifest>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Irrig\'Ai</string>
+    <string name="app_subtitle">Smart Irrigation System</string>
+    
+    <!-- Landing -->
+    <string name="sign_up">Sign Up</string>
+    
+    <!-- Auth -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="farm_owner">👨‍🌾 Farm Owner</string>
+    <string name="worker">👷 Worker</string>
+    <string name="email_identifier">Email / Identifier</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="farm_name">Farm Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    
+    <!-- Owner -->
+    <string name="dashboard">Dashboard</string>
+    <string name="stats">Statistics</string>
+    <string name="farm">Farm</string>
+    <string name="robots">Robots</string>
+    <string name="workers">Workers</string>
+    <string name="weather">Weather</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="soon">SOON</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+
+    <!-- Farm selection -->
+    <string name="farm_selection_title">Select a farm</string>
+    <string name="farm_card_robots_placeholder">3 robots</string>
+    <string name="farm_card_location_placeholder">Unknown location</string>
+    <string name="farm_card_last_activity_placeholder">Last activity: today</string>
+
+    <!-- Worker nav -->
+    <string name="worker_nav_viz">Visualisation</string>
+    <string name="worker_nav_tasks">Tâches</string>
+    <string name="worker_nav_control">Contrôle</string>
+    <string name="worker_revenir">Revenir</string>
+    <string name="worker_lancer">Lancer</string>
+    <string name="worker_on">ON</string>
+    <string name="worker_off">OFF</string>
+    <string name="worker_lu">Lu</string>
+    <string name="worker_mode_auto">Mode auto</string>
+    <string name="worker_mode_manuel">Mode manuel</string>
+    <string name="worker_pompe_puits">Pompe puits</string>
+    <string name="worker_meteo">Météo</string>
+    <string name="worker_electrovanne">Électrovanne</string>
+    <string name="worker_robots_duty">Robots en service</string>
+    <string name="worker_remarques">Remarques</string>
+
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- Robots -->
+    <string name="robot_battery_format">Battery: %1$d%%</string>
+    <string name="robot_no_task">No active task</string>
+    <string name="robot_status_updated">Status updated to %1$s</string>
+</resources>
+

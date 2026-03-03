@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BottomNavigationView max 5 items - combine Farm+Weather into Profile submenu -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:icon="@drawable/ic_nav_home" android:title="@string/home" />
+    <item android:id="@+id/nav_stats" android:icon="@drawable/ic_nav_chart" android:title="@string/stats" />
+    <item android:id="@+id/nav_robots" android:icon="@drawable/ic_nav_robot" android:title="@string/robots" />
+    <item android:id="@+id/nav_workers" android:icon="@drawable/ic_nav_person" android:title="@string/workers" />
+    <item android:id="@+id/nav_profile" android:icon="@drawable/ic_nav_person" android:title="@string/profile" />
+</menu>

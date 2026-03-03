@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_worker_home" android:icon="@drawable/ic_nav_chart" android:title="Accueil" />
+    <item android:id="@+id/nav_worker_tasks" android:icon="@drawable/ic_nav_chart" android:title="@string/worker_nav_tasks" />
+    <item android:id="@+id/nav_worker_zones" android:icon="@drawable/ic_nav_farm" android:title="Zones" />
+    <item android:id="@+id/nav_worker_profile" android:icon="@drawable/ic_nav_person" android:title="@string/profile" />
+</menu>

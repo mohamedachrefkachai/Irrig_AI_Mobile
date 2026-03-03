@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Green/Emerald Theme -->
+    <color name="primary_green">#10B981</color>
+    <color name="primary_emerald">#059669</color>
+    <color name="dark_green">#047857</color>
+    <color name="light_green">#D1FAE5</color>
+    <color name="pastel_green">#ECFDF5</color>
+    
+    <!-- Status Colors -->
+    <color name="status_red">#EF4444</color>
+    <color name="status_green">#10B981</color>
+    <color name="status_blue">#3B82F6</color>
+    <color name="status_yellow">#F59E0B</color>
+    <color name="status_orange">#F59E0B</color>
+    <color name="status_purple">#8B5CF6</color>
+    
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_800">#1F2937</color>
+    <color name="gray_900">#111827</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_light">#9CA3AF</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F9FAFB</color>
+</resources>
+
